@@ -1,0 +1,16 @@
+.experience-item {
+    min-height: 200px;
+}
+.light-orange {
+    background: #ee8716;
+}
+.light-red {
+    background: #c7290f;
+}
+.light-orange, .light-red {
+    -webkit-transition:all .35s ease;
+    -moz-transition:all .35s ease;
+    -ms-transition:all .35s ease;
+    -o-transition:all .35s ease;
+    transition:all .35s ease
+}
